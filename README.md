@@ -17,3 +17,4 @@ This repository contains a simple portfolio website for Tawana Mafukidze.
 - Update `contact.html` with your real GitHub, email, and LinkedIn links.
 - Replace `assets/cv.pdf` with the final CV export.
 - Customize the content in each page to reflect your personal experience and projects.
+
